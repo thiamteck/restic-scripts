@@ -1,0 +1,25 @@
+desktop.ini
+Thumbs.db
+.Trash-*
+.tmp
+pagefile.sys
+$RECYCLE.BIN
+RECYCLER
+lost+found
+hiberfil.sys
+# folder from build management tool
+node_modules
+ivy-cache
+target
+# Files that usually huge
+*.vmdk
+*.vdi
+*.ovf
+*.ova
+*.iso
+*.img
+# More files from other sources
+Download
+drama
+Games
+Installer
